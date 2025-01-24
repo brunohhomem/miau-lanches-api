@@ -1,5 +1,5 @@
 
-GET http://localhost:3001/ingredientes/
+GET https://miau-lanches-api-bvle-5t1fn1flb-brunohhomems-projects.vercel.app/ingredientes/
 
 
 ###
